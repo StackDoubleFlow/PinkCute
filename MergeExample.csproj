@@ -10,17 +10,11 @@
         <Reference Include="UnityEngine.UI">
             <HintPath>build/Managed/UnityEngine.UI.dll</HintPath>
         </Reference>
-        <Reference Include="UnityEngine.PhysicsModule">
-            <HintPath>build/Managed/UnityEngine.PhysicsModule.dll</HintPath>
-        </Reference>
         <Reference Include="Main">
             <HintPath>build/Managed/Main.dll</HintPath>
         </Reference>
         <Reference Include="Unity.TextMeshPro">
             <HintPath>build/Managed/Unity.TextMeshPro.dll</HintPath>
-        </Reference>
-        <Reference Include="QMergeCore">
-            <HintPath>build/Managed/QMergeCore.dll</HintPath>
         </Reference>
     </ItemGroup>
 
