@@ -4,6 +4,6 @@
     </PropertyGroup>
     
     <Target Name="QMergeBuild" DependsOnTargets="Compile">
-        <Exec Command="cargo rr -- build --regen-cpp $(OutputPath)" />
+        <Exec Command="qmerge build --regen-cpp $(OutputPath)" />
     </Target>
 </Project>
